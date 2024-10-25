@@ -16,7 +16,7 @@
 
             //дочерний
             Console.WriteLine();
-            Triangle triangle = new Triangle(original.x, original.y, original.z);
+            Triangle triangle = new Triangle(original.X, original.Y, original.Z);
             Console.WriteLine(triangle);
         }
     }
