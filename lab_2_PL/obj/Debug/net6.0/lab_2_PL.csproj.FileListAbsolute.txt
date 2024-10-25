@@ -1,0 +1,15 @@
+C:\Users\Mark\Desktop\ПГНИУ\ЯП_№3\lab_2_PL\bin\Debug\net6.0\lab_2_PL.exe
+C:\Users\Mark\Desktop\ПГНИУ\ЯП_№3\lab_2_PL\bin\Debug\net6.0\lab_2_PL.deps.json
+C:\Users\Mark\Desktop\ПГНИУ\ЯП_№3\lab_2_PL\bin\Debug\net6.0\lab_2_PL.runtimeconfig.json
+C:\Users\Mark\Desktop\ПГНИУ\ЯП_№3\lab_2_PL\bin\Debug\net6.0\lab_2_PL.dll
+C:\Users\Mark\Desktop\ПГНИУ\ЯП_№3\lab_2_PL\bin\Debug\net6.0\lab_2_PL.pdb
+C:\Users\Mark\Desktop\ПГНИУ\ЯП_№3\lab_2_PL\obj\Debug\net6.0\lab_2_PL.csproj.AssemblyReference.cache
+C:\Users\Mark\Desktop\ПГНИУ\ЯП_№3\lab_2_PL\obj\Debug\net6.0\lab_2_PL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark\Desktop\ПГНИУ\ЯП_№3\lab_2_PL\obj\Debug\net6.0\lab_2_PL.AssemblyInfoInputs.cache
+C:\Users\Mark\Desktop\ПГНИУ\ЯП_№3\lab_2_PL\obj\Debug\net6.0\lab_2_PL.AssemblyInfo.cs
+C:\Users\Mark\Desktop\ПГНИУ\ЯП_№3\lab_2_PL\obj\Debug\net6.0\lab_2_PL.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Desktop\ПГНИУ\ЯП_№3\lab_2_PL\obj\Debug\net6.0\lab_2_PL.dll
+C:\Users\Mark\Desktop\ПГНИУ\ЯП_№3\lab_2_PL\obj\Debug\net6.0\refint\lab_2_PL.dll
+C:\Users\Mark\Desktop\ПГНИУ\ЯП_№3\lab_2_PL\obj\Debug\net6.0\lab_2_PL.pdb
+C:\Users\Mark\Desktop\ПГНИУ\ЯП_№3\lab_2_PL\obj\Debug\net6.0\lab_2_PL.genruntimeconfig.cache
+C:\Users\Mark\Desktop\ПГНИУ\ЯП_№3\lab_2_PL\obj\Debug\net6.0\ref\lab_2_PL.dll
